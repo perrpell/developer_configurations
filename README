@@ -1,0 +1,7 @@
+The emacs director of the development_configurations rep is for configuration related to developing with the emacs editor.  Specifically the emacs file binds the ruby-mode.el file to all *.rb files.
+
+The ruby-mode.el file was downloaded from 
+
+It goes in /usr/share/emacs/22.1/lisp/ and must be copied in under sudo.
+
+
