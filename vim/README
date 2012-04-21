@@ -1,0 +1,4 @@
+This directory holds configuration files and information related to vim used as a development environment mostly for ruby.
+
+The vim moria color scheme was downloaded from:
+git remote add origin git@github.com:perrpell/developer_configurations.git
